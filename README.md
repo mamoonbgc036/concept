@@ -18,5 +18,3 @@ This is a simple multi-language PHP web app that supports dynamic language switc
 - Bootstrap 5
 - jQuery + AJAX
 
-## 📁 Project Structure
-
